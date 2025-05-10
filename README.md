@@ -43,9 +43,6 @@ gh repo create my-devops-project --public --source=. --remote=origin --push
 ```bash
 gh repo create my-devops-project --private --source=. --remote=origin --push
 ```
-## Authors
-
-- [singhnirbhai](https://www.github.com/singhnirbhai)
 
 ## How We delete repo
 
@@ -59,3 +56,6 @@ For Web view used
 ```bash
 gh repo view --web
 ```
+## Authors
+
+- [singhnirbhai](https://www.github.com/singhnirbhai)
